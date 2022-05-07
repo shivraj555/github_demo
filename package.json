@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
+    "ng-http-loader": "^11.0.1",
     "@angular/animations": "^13.2.0",
     "@angular/common": "^13.2.0",
     "@angular/compiler": "^13.2.0",
