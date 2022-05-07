@@ -1,0 +1,31 @@
+#image {
+  height: 200px;
+  width: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 30%;
+  margin: auto;
+  border: 5px solid black;
+}
+
+.middle {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
+.text-al-cen {
+  text-align: center;
+}
+
+.number {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.other-info {
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 20px;
+}
